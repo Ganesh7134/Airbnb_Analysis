@@ -28,11 +28,7 @@ Mongo dB --> load datasets --> sample Airbnb --> listandReviews --> data
 
 **data**: Contains raw data used in the analysis extracted from Mongodb cluster.
 
-**notebooks**: Jupyter notebooks for data preparation and exploratory analysis.
-
-**src**: Source code for analysis and visualization.
-
-**results**: Stores the results of the analysis.
+**notebooks**: Jupyter notebooks for data preparation
 
 **powerbi**: PowerBI dashboard file for interactive visualization.
 
